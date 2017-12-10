@@ -5,14 +5,9 @@ class PatientService {
     private final List<Patient> patients = new ArrayList<>();
 
     PatientService() {
-
-
-
-
         this.patients.add(new Patient("Marek", "Inglot", 13));
         this.patients.add(new Patient("Lech", "Gacg", 13));
         this.patients.add(new Patient("Ziemowit", "Podolski", 13));
-        this.patients.add(new Patient("Zbigniw", "Koalski", 13));
         this.patients.add(new Patient("emilia", "Oz", 13));
         this.patients.add(new Patient("Lena", "Labuda", 13));
         this.patients.add(new Patient("Roger", "Mała", 13));

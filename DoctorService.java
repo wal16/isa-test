@@ -8,7 +8,6 @@ class DoctorService {
         this.doctors.add(new Doctor("Adam", "Lecz"));
         this.doctors.add(new Doctor("Marcin", "Leczniczny"));
         this.doctors.add(new Doctor("Lech", "Nowak"));
-        this.doctors.add(new Doctor("Lekhjk", "Noljhjj"));
         this.doctors.add(new Doctor("khjgfj", "hjgfjhj"));
     }
 
